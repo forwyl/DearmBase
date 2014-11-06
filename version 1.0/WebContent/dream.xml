@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="dream.xsl"?>
+
+<wishes>
+
+	<dream>
+		<number>1</number>
+		<type>fun</type>
+		<title>Attend a Murder Mystery Dinner</title>
+		<price>199</price>
+		<description>ssss</description>
+		<imgUrl>image/Attend a Murder Mystery Dinner.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>2</number>
+		<type>eat</type>
+		<title>Have Chocolate Fondue</title>
+		<price>200</price>
+		<description>tttt</description>
+		<imgUrl>image/Have Chocolate Fondue.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>3</number>
+		<type>buy</type>
+		<title>Own the Perfect Black Suit</title>
+		<price>10000</price>
+		<description>rrrr</description>
+		<imgUrl>image/Own the Perfect Black Suit.jpg</imgUrl>
+	</dream>
+
+
+	<dream>
+		<number>4</number>
+		<type>buy</type>
+		<title>Own the Perfect Little Black Dress</title>
+		<price>9900</price>
+		<description></description>
+		<imgUrl>image/Own the Perfect Little Black Dress.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>5</number>
+		<type>learn</type>
+		<title>Work From Home</title>
+		<price>infinity</price>
+		<description></description>
+		<imgUrl>image/Work From Home.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>6</number>
+		<type>learn</type>
+		<title>Find a Job You Love</title>
+		<price>infinity</price>
+		<description></description>
+		<imgUrl>image/Find a Job You Love.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>7</number>
+		<type>fun</type>
+		<title>Create a Christmas Jar</title>
+		<price>200</price>
+		<description></description>
+		<imgUrl>image/Create a Christmas Jar.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>8</number>
+		<type>learn</type>
+		<title>Achieve Inner Peace</title>
+		<price>infinity</price>
+		<description></description>
+		<imgUrl>image/Achieve Inner Peace.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>9</number>
+		<type>travel</type>
+		<title>Live In a State of Gratitude</title>
+		<price>travel</price>
+		<description></description>
+		<imgUrl>image/Live In a State of Gratitude.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>10</number>
+		<type>buy</type>
+		<title>Go Shopping in Rodeo Drive</title>
+		<price>infinity</price>
+		<description></description>
+		<imgUrl>image/Go Shopping in Rodeo Drive.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>11</number>
+		<type>fun</type>
+		<title>Create a Family Crest</title>
+		<price>500</price>
+		<description></description>
+		<imgUrl>image/Create a Family Crest.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>12</number>
+		<type>eat</type>
+		<title>Go on a Romantic Picnic</title>
+		<price>50</price>
+		<description></description>
+		<imgUrl>image/Go on a Romantic Picnic.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>13</number>
+		<type>learn</type>
+		<title>Prepare a Will</title>
+		<price>100</price>
+		<description></description>
+		<imgUrl>image/Prepare a Will.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>14</number>
+		<type>learn</type>
+		<title>Invest in Gold</title>
+		<price>999999</price>
+		<description></description>
+		<imgUrl>image/Invest in Gold.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>15</number>
+		<type>learn</type>
+		<title>Get a PhD</title>
+		<price>infinity</price>
+		<description></description>
+		<imgUrl>image/Get a PhD.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>16</number>
+		<type>learn</type>
+		<title>Release the Past</title>
+		<price>infinity</price>
+		<description></description>
+		<imgUrl>image/Release the Past.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>17</number>
+		<type>learn</type>
+		<title>Acquire Conflict Resolution Skills</title>
+		<price>700</price>
+		<description></description>
+		<imgUrl>image/Acquire Conflict Resolution Skills.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>18</number>
+		<type>travel</type>
+		<title>Go to the Winter Olympics</title>
+		<price>99999</price>
+		<description></description>
+		<imgUrl>image/Go to the Winter Olympics.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>19</number>
+		<type>travel</type>
+		<title>Ride a Cable Car in San Francisco</title>
+		<price>6000</price>
+		<description></description>
+		<imgUrl>image/Ride a Cable Car in San Francisco.jpg</imgUrl>
+	</dream>
+	
+	<dream>
+		<number>20</number>
+		<type>travel</type>
+		<title>Go to La Tomatina</title>
+		<price>10000</price>
+		<description></description>
+		<imgUrl>image/Go to La Tomatina.jpg</imgUrl>
+	</dream>
+
+</wishes>

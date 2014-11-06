@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='intoDream.xsl' ?>
+<wishes>
+    <dream>
+        <number>2</number>
+        <price>200</price>
+        <type>eat</type>
+        <title>Have Chocolate Fondue</title>
+        <imgUrl>image/Have Chocolate Fondue.jpg</imgUrl>
+        <description>tttt</description>
+    </dream>
+    <dream>
+        <number>7</number>
+        <price>200</price>
+        <type>eat</type>
+        <title>Create a Christmas Jar</title>
+        <imgUrl>image/Create a Christmas Jar.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>10</number>
+        <price>100</price>
+        <type>eat</type>
+        <title>Go Shopping in Rodeo Drive</title>
+        <imgUrl>image/Go Shopping in Rodeo Drive.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>16</number>
+        <price>0</price>
+        <type>eat</type>
+        <title>Release the Past</title>
+        <imgUrl>image/Release the Past.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>20</number>
+        <price>100</price>
+        <type>eat</type>
+        <title>Go to La Tomatina</title>
+        <imgUrl>image/Go to La Tomatina.jpg</imgUrl>
+        <description></description>
+    </dream>
+</wishes>

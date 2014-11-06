@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='intoDream.xsl' ?>
+<wishes>
+    <dream>
+        <number>4</number>
+        <price>500</price>
+        <type>eat</type>
+        <title>Own the Perfect Little Black Dress</title>
+        <imgUrl>image/Own the Perfect Little Black Dress.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>7</number>
+        <price>200</price>
+        <type>eat</type>
+        <title>Create a Christmas Jar</title>
+        <imgUrl>image/Create a Christmas Jar.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>10</number>
+        <price>100</price>
+        <type>eat</type>
+        <title>Go Shopping in Rodeo Drive</title>
+        <imgUrl>image/Go Shopping in Rodeo Drive.jpg</imgUrl>
+        <description></description>
+    </dream>
+</wishes>

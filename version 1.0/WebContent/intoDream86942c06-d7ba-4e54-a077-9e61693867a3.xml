@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='intoDream.xsl' ?>
+<wishes>
+    <dream>
+        <number>1</number>
+        <price>199</price>
+        <type>fun</type>
+        <title>Attend a Murder Mystery Dinner</title>
+        <imgUrl>image/Attend a Murder Mystery Dinner.jpg</imgUrl>
+        <description>ssss</description>
+    </dream>
+    <dream>
+        <number>2</number>
+        <price>200</price>
+        <type>eat</type>
+        <title>Have Chocolate Fondue</title>
+        <imgUrl>image/Have Chocolate Fondue.jpg</imgUrl>
+        <description>tttt</description>
+    </dream>
+    <dream>
+        <number>3</number>
+        <price>10000</price>
+        <type>buy</type>
+        <title>Own the Perfect Black Suit</title>
+        <imgUrl>image/Own the Perfect Black Suit.jpg</imgUrl>
+        <description>rrrr</description>
+    </dream>
+    <dream>
+        <number>4</number>
+        <price>9900</price>
+        <type>buy</type>
+        <title>Own the Perfect Little Black Dress</title>
+        <imgUrl>image/Own the Perfect Little Black Dress.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>5</number>
+        <price>0</price>
+        <type>learn</type>
+        <title>Work From Home</title>
+        <imgUrl>image/Work From Home.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>6</number>
+        <price>0</price>
+        <type>learn</type>
+        <title>Find a Job You Love</title>
+        <imgUrl>image/Find a Job You Love.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>12</number>
+        <price>50</price>
+        <type>eat</type>
+        <title>Go on a Romantic Picnic</title>
+        <imgUrl>image/Go on a Romantic Picnic.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>15</number>
+        <price>0</price>
+        <type>learn</type>
+        <title>Get a PhD</title>
+        <imgUrl>image/Get a PhD.jpg</imgUrl>
+        <description></description>
+    </dream>
+</wishes>

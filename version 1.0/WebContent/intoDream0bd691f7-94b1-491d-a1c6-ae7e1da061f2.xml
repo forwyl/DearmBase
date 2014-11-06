@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='intoDream.xsl' ?>
+<wishes>
+    <dream>
+        <number>4</number>
+        <price>500</price>
+        <type>eat</type>
+        <title>Own the Perfect Little Black Dress</title>
+        <imgUrl>image/Own the Perfect Little Black Dress.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>5</number>
+        <price>400</price>
+        <type></type>
+        <title>Work From Home</title>
+        <imgUrl>image/Work From Home.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>10</number>
+        <price>100</price>
+        <type>eat</type>
+        <title>Go Shopping in Rodeo Drive</title>
+        <imgUrl>image/Go Shopping in Rodeo Drive.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>11</number>
+        <price>100</price>
+        <type></type>
+        <title>Create a Family Crest</title>
+        <imgUrl>image/Create a Family Crest.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>13</number>
+        <price>100</price>
+        <type></type>
+        <title>Prepare a Will</title>
+        <imgUrl>image/Prepare a Will.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>18</number>
+        <price>100</price>
+        <type></type>
+        <title>Go to the Winter Olympics</title>
+        <imgUrl>image/Go to the Winter Olympics.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>19</number>
+        <price>600</price>
+        <type>eat</type>
+        <title>Ride a Cable Car in San Francisco</title>
+        <imgUrl>image/Ride a Cable Car in San Francisco.jpg</imgUrl>
+        <description></description>
+    </dream>
+    <dream>
+        <number>20</number>
+        <price>100</price>
+        <type>eat</type>
+        <title>Go to La Tomatina</title>
+        <imgUrl>image/Go to La Tomatina.jpg</imgUrl>
+        <description></description>
+    </dream>
+</wishes>
